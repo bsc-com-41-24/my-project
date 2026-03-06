@@ -1,0 +1,12 @@
+
+#ignoring nodejs dependencies
+node_modules/
+
+#ignoring environmental variables
+.env
+
+#ignoring all logs
+*.log
+
+#
+dist/
